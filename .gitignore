@@ -1,8 +1,9 @@
-# Node dependencies
+# Node & Build Outputs
 node_modules/
 frontend/node_modules/
+dist/
 frontend/dist/
-frontend/build/
+build/
 
 # Python virtual environment & cache
 __pycache__/
