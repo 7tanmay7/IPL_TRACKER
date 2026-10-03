@@ -14,6 +14,7 @@ export const App: React.FC = () => {
   const [activeTab, setActiveTab] = useState<string>('overview');
   const [selectedSeason, setSelectedSeason] = useState<string>('All');
   const [isAskModalOpen, setIsAskModalOpen] = useState<boolean>(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState<boolean>(false);
 
   const seasonsList = [
     '2024', '2023', '2022', '2021', '2020', '2019', '2018',
@@ -43,12 +44,14 @@ export const App: React.FC = () => {
   };
 
   return (
-    <div className="flex min-h-screen bg-dark-900 text-gray-100">
+    <div className="flex min-h-screen bg-dark-900 text-gray-100 relative overflow-x-hidden">
       {/* Sidebar Navigation */}
       <Sidebar
         activeTab={activeTab}
         setActiveTab={setActiveTab}
         openAskModal={() => setIsAskModalOpen(true)}
+        isMobileMenuOpen={isMobileMenuOpen}
+        setIsMobileMenuOpen={setIsMobileMenuOpen}
       />
 
       {/* Main Content Area */}
@@ -57,6 +60,7 @@ export const App: React.FC = () => {
           selectedSeason={selectedSeason}
           setSelectedSeason={setSelectedSeason}
           seasonsList={seasonsList}
+          onToggleMobileMenu={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
         />
 
         <main className="flex-1 overflow-y-auto">
@@ -72,5 +76,6 @@ export const App: React.FC = () => {
     </div>
   );
 };
+
 
 export default App;

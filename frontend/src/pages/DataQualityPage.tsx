@@ -24,50 +24,50 @@ export const DataQualityPage: React.FC = () => {
   if (!data) return <div className="p-8 text-gray-400">Failed to load data quality report.</div>;
 
   return (
-    <div className="p-6 space-y-6">
+    <div className="p-4 sm:p-6 space-y-4 sm:space-y-6">
       {/* Header */}
       <div>
-        <h2 className="text-xl font-black text-white tracking-tight flex items-center gap-2">
-          <Database className="w-5 h-5 text-emerald-400" />
+        <h2 className="text-lg sm:text-xl font-black text-white tracking-tight flex items-center gap-2">
+          <Database className="w-5 h-5 text-emerald-400 shrink-0" />
           <span>Data Sources, Lineage & Methodology Audit</span>
         </h2>
         <p className="text-xs text-gray-400">Transparent data provenance, transformation rules, and sanity check validations</p>
       </div>
 
       {/* Metadata Audit Cards */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        <div className="bg-dark-800 border border-dark-700 p-4 rounded-xl">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+        <div className="bg-dark-800 border border-dark-700 p-3.5 sm:p-4 rounded-xl">
           <span className="text-[10px] text-gray-400 uppercase font-bold">Data Source</span>
-          <p className="text-sm font-black text-white mt-1">{data.source}</p>
+          <p className="text-xs sm:text-sm font-black text-white mt-1 truncate">{data.source}</p>
           <p className="text-[11px] text-emerald-400 font-medium mt-1">{data.coverage}</p>
         </div>
 
-        <div className="bg-dark-800 border border-dark-700 p-4 rounded-xl">
+        <div className="bg-dark-800 border border-dark-700 p-3.5 sm:p-4 rounded-xl">
           <span className="text-[10px] text-gray-400 uppercase font-bold">Matches Ingested</span>
-          <p className="text-xl font-black text-emerald-400 mt-1">{data.metrics_audit.total_matches_ingested.toLocaleString()}</p>
+          <p className="text-lg sm:text-xl font-black text-emerald-400 mt-1">{data.metrics_audit.total_matches_ingested.toLocaleString()}</p>
           <p className="text-[11px] text-gray-400 mt-1">2008 – 2024</p>
         </div>
 
-        <div className="bg-dark-800 border border-dark-700 p-4 rounded-xl">
+        <div className="bg-dark-800 border border-dark-700 p-3.5 sm:p-4 rounded-xl">
           <span className="text-[10px] text-gray-400 uppercase font-bold">Deliveries Ingested</span>
-          <p className="text-xl font-black text-white mt-1">{data.metrics_audit.total_deliveries_ingested.toLocaleString()}</p>
+          <p className="text-lg sm:text-xl font-black text-white mt-1">{data.metrics_audit.total_deliveries_ingested.toLocaleString()}</p>
           <p className="text-[11px] text-cyan-400 mt-1">{data.metrics_audit.legal_delivery_ratio_pct}% Legal ratio</p>
         </div>
 
-        <div className="bg-dark-800 border border-dark-700 p-4 rounded-xl">
+        <div className="bg-dark-800 border border-dark-700 p-3.5 sm:p-4 rounded-xl">
           <span className="text-[10px] text-gray-400 uppercase font-bold">Validation Status</span>
           <div className="flex items-center space-x-2 mt-1">
-            <CheckCircle className="w-5 h-5 text-emerald-400" />
-            <span className="text-sm font-black text-emerald-400">{data.sanity_checks.status}</span>
+            <CheckCircle className="w-4 h-4 sm:w-5 sm:h-5 text-emerald-400 shrink-0" />
+            <span className="text-xs sm:text-sm font-black text-emerald-400">{data.sanity_checks.status}</span>
           </div>
           <p className="text-[11px] text-gray-400 mt-1">0 Data Anomalies Found</p>
         </div>
       </div>
 
       {/* Assumptions & Limitations Box */}
-      <div className="bg-dark-800 border border-dark-700 rounded-xl p-5 space-y-3">
+      <div className="bg-dark-800 border border-dark-700 rounded-xl p-4 sm:p-5 space-y-3">
         <h3 className="text-xs font-bold text-white uppercase tracking-wider flex items-center gap-2">
-          <FileText className="w-4 h-4 text-emerald-400" />
+          <FileText className="w-4 h-4 text-emerald-400 shrink-0" />
           Data Engineering Assumptions & Cricket Handling Rules
         </h3>
         <ul className="space-y-2 text-xs text-gray-300">
@@ -82,3 +82,4 @@ export const DataQualityPage: React.FC = () => {
     </div>
   );
 };
+
