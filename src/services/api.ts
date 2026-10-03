@@ -1,3 +1,12 @@
+import { 
+  STATIC_OVERVIEW, 
+  STATIC_TEAMS, 
+  STATIC_PLAYERS, 
+  STATIC_OPPOSITION, 
+  STATIC_SCOUTING, 
+  STATIC_DATA_QUALITY 
+} from '../data/staticData';
+
 const BASE_URL = '/api';
 
 export async function fetchOverview(season?: string) {
@@ -9,20 +18,17 @@ export async function fetchOverview(season?: string) {
       if (data && data.kpis) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static dataset.');
+    // API unavailable
   }
 
-  // Fallback to static JSON
-  const staticRes = await fetch('/data/overview.json');
-  const data = await staticRes.json();
+  // Instant Static Fallback
   if (season && season !== 'All') {
-    // Client-side season filtering fallback
     return {
-      ...data,
-      season_trends: data.season_trends.filter((s: any) => s.season === season)
+      ...STATIC_OVERVIEW,
+      season_trends: STATIC_OVERVIEW.season_trends.filter((s: any) => s.season === season)
     };
   }
-  return data;
+  return STATIC_OVERVIEW;
 }
 
 export async function fetchTeams() {
@@ -33,12 +39,10 @@ export async function fetchTeams() {
       if (Array.isArray(data) && data.length > 0) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static dataset.');
+    // API unavailable
   }
 
-  const staticRes = await fetch('/data/teams.json');
-  const data = await staticRes.json();
-  return data.list;
+  return STATIC_TEAMS.list;
 }
 
 export async function fetchTeamDetail(teamName: string) {
@@ -49,12 +53,10 @@ export async function fetchTeamDetail(teamName: string) {
       if (data && data.summary) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static dataset.');
+    // API unavailable
   }
 
-  const staticRes = await fetch('/data/teams.json');
-  const data = await staticRes.json();
-  return data.details[teamName] || data.details['Mumbai Indians'];
+  return STATIC_TEAMS.details[teamName] || STATIC_TEAMS.details['Mumbai Indians'];
 }
 
 export async function fetchPlayers() {
@@ -65,12 +67,10 @@ export async function fetchPlayers() {
       if (Array.isArray(data) && data.length > 0) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static dataset.');
+    // API unavailable
   }
 
-  const staticRes = await fetch('/data/players.json');
-  const data = await staticRes.json();
-  return data.list;
+  return STATIC_PLAYERS.list;
 }
 
 export async function fetchPlayerDetail(playerName: string) {
@@ -81,12 +81,10 @@ export async function fetchPlayerDetail(playerName: string) {
       if (data && data.player_name) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static dataset.');
+    // API unavailable
   }
 
-  const staticRes = await fetch('/data/players.json');
-  const data = await staticRes.json();
-  return data.details[playerName] || data.details['V Kohli'];
+  return STATIC_PLAYERS.details[playerName] || STATIC_PLAYERS.details['V Kohli'];
 }
 
 export async function fetchMatchup(batter: string, bowler: string) {
@@ -97,10 +95,9 @@ export async function fetchMatchup(batter: string, bowler: string) {
       if (data) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static matchup lookup.');
+    // API unavailable
   }
 
-  // Fallback matchup computation
   return {
     batter,
     bowler,
@@ -128,12 +125,10 @@ export async function fetchOpposition(teamName: string) {
       if (data && data.summary) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static dataset.');
+    // API unavailable
   }
 
-  const staticRes = await fetch('/data/opposition.json');
-  const data = await staticRes.json();
-  return data[teamName] || data['Chennai Super Kings'];
+  return STATIC_OPPOSITION[teamName] || STATIC_OPPOSITION['Chennai Super Kings'];
 }
 
 export async function fetchScouting(weights: any, minBalls: number = 50) {
@@ -148,11 +143,10 @@ export async function fetchScouting(weights: any, minBalls: number = 50) {
       if (data && data.candidates) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static scouting dataset.');
+    // API unavailable
   }
 
-  const staticRes = await fetch('/data/scouting.json');
-  return staticRes.json();
+  return STATIC_SCOUTING;
 }
 
 export async function fetchDataQuality() {
@@ -163,11 +157,10 @@ export async function fetchDataQuality() {
       if (data && data.metrics_audit) return data;
     }
   } catch (e) {
-    console.warn('Backend API unavailable, falling back to static dataset.');
+    // API unavailable
   }
 
-  const staticRes = await fetch('/data/data_quality.json');
-  return staticRes.json();
+  return STATIC_DATA_QUALITY;
 }
 
 export async function askDataQuestion(question: string) {
@@ -181,7 +174,7 @@ export async function askDataQuestion(question: string) {
       return res.json();
     }
   } catch (e) {
-    console.warn('Backend API unavailable, executing client fallback query.');
+    // API unavailable
   }
 
   return {
