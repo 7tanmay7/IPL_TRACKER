@@ -1,0 +1,2474 @@
+{
+  "list": [
+    {
+      "team_name": "Gujarat Titans",
+      "team_short": "GT",
+      "logo_url": "https://documents.iplt20.com/ipl/GT/Logos/Logooutline/GToutline.png",
+      "matches": 77,
+      "wins": 47,
+      "losses": 30,
+      "win_pct": 61.04,
+      "total_runs_scored": 13743,
+      "total_runs_conceded": 13414,
+      "wickets_taken": 509
+    },
+    {
+      "team_name": "Chennai Super Kings",
+      "team_short": "CSK",
+      "logo_url": "https://documents.iplt20.com/ipl/CSK/logos/Logooutline/CSKoutline.png",
+      "matches": 266,
+      "wins": 148,
+      "losses": 116,
+      "win_pct": 55.64,
+      "total_runs_scored": 43600,
+      "total_runs_conceded": 42180,
+      "wickets_taken": 1646
+    },
+    {
+      "team_name": "Mumbai Indians",
+      "team_short": "MI",
+      "logo_url": "https://documents.iplt20.com/ipl/MI/Logos/Logooutline/MIoutline.png",
+      "matches": 291,
+      "wins": 155,
+      "losses": 132,
+      "win_pct": 53.26,
+      "total_runs_scored": 47641,
+      "total_runs_conceded": 46648,
+      "wickets_taken": 1782
+    },
+    {
+      "team_name": "Kolkata Knight Riders",
+      "team_short": "KKR",
+      "logo_url": "https://documents.iplt20.com/ipl/KKR/Logos/Logooutline/KKRoutline.png",
+      "matches": 278,
+      "wins": 140,
+      "losses": 131,
+      "win_pct": 50.36,
+      "total_runs_scored": 43646,
+      "total_runs_conceded": 43747,
+      "wickets_taken": 1632
+    },
+    {
+      "team_name": "Rising Pune Supergiants",
+      "team_short": "RPS",
+      "logo_url": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RPS.png?v=2",
+      "matches": 30,
+      "wins": 15,
+      "losses": 15,
+      "win_pct": 50.0,
+      "total_runs_scored": 4533,
+      "total_runs_conceded": 4549,
+      "wickets_taken": 189
+    },
+    {
+      "team_name": "Royal Challengers Bengaluru",
+      "team_short": "RCB",
+      "logo_url": "",
+      "matches": 286,
+      "wins": 143,
+      "losses": 137,
+      "win_pct": 50.0,
+      "total_runs_scored": 46332,
+      "total_runs_conceded": 46340,
+      "wickets_taken": 1695
+    },
+    {
+      "team_name": "Rajasthan Royals",
+      "team_short": "RR",
+      "logo_url": "https://1000logos.net/wp-content/uploads/2024/03/Rajasthan-Royals-Logo-768x432.png",
+      "matches": 251,
+      "wins": 123,
+      "losses": 122,
+      "win_pct": 49.0,
+      "total_runs_scored": 40437,
+      "total_runs_conceded": 40992,
+      "wickets_taken": 1450
+    },
+    {
+      "team_name": "Lucknow Super Giants",
+      "team_short": "LSG",
+      "logo_url": "https://documents.iplt20.com/ipl/LSG/Logos/Logooutline/LSGoutline.png",
+      "matches": 72,
+      "wins": 34,
+      "losses": 36,
+      "win_pct": 47.22,
+      "total_runs_scored": 12754,
+      "total_runs_conceded": 12814,
+      "wickets_taken": 415
+    },
+    {
+      "team_name": "Sunrisers Hyderabad",
+      "team_short": "SRH",
+      "logo_url": "https://documents.iplt20.com/ipl/SRH/Logos/Logooutline/SRHoutline.png",
+      "matches": 286,
+      "wins": 131,
+      "losses": 150,
+      "win_pct": 45.8,
+      "total_runs_scored": 46103,
+      "total_runs_conceded": 46223,
+      "wickets_taken": 1703
+    },
+    {
+      "team_name": "Punjab Kings",
+      "team_short": "PK",
+      "logo_url": "https://documents.iplt20.com/ipl/PBKS/Logos/Logooutline/PBKSoutline.png",
+      "matches": 278,
+      "wins": 126,
+      "losses": 145,
+      "win_pct": 45.32,
+      "total_runs_scored": 45573,
+      "total_runs_conceded": 45650,
+      "wickets_taken": 1575
+    },
+    {
+      "team_name": "Delhi Capitals",
+      "team_short": "DC",
+      "logo_url": "https://documents.iplt20.com/ipl/DC/Logos/LogoOutline/DCoutline.png",
+      "matches": 281,
+      "wins": 125,
+      "losses": 147,
+      "win_pct": 44.48,
+      "total_runs_scored": 44255,
+      "total_runs_conceded": 45248,
+      "wickets_taken": 1646
+    },
+    {
+      "team_name": "Gujarat Lions",
+      "team_short": "GL",
+      "logo_url": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GL.png?v=2",
+      "matches": 30,
+      "wins": 13,
+      "losses": 16,
+      "win_pct": 43.33,
+      "total_runs_scored": 4862,
+      "total_runs_conceded": 5090,
+      "wickets_taken": 151
+    },
+    {
+      "team_name": "Kochi Tuskers Kerala",
+      "team_short": "KTK",
+      "logo_url": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KTK.png?v=2",
+      "matches": 14,
+      "wins": 6,
+      "losses": 8,
+      "win_pct": 42.86,
+      "total_runs_scored": 1901,
+      "total_runs_conceded": 1986,
+      "wickets_taken": 74
+    },
+    {
+      "team_name": "Pune Warriors",
+      "team_short": "PWI",
+      "logo_url": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PWI.png?v=2",
+      "matches": 46,
+      "wins": 12,
+      "losses": 33,
+      "win_pct": 26.09,
+      "total_runs_scored": 6358,
+      "total_runs_conceded": 6857,
+      "wickets_taken": 238
+    }
+  ],
+  "details": {
+    "Gujarat Titans": {
+      "summary": {
+        "team_name": "Gujarat Titans",
+        "matches": 77,
+        "wins": 47,
+        "losses": 30,
+        "win_pct": 61.04,
+        "total_runs_scored": 13743,
+        "total_runs_conceded": 13414,
+        "wickets_taken": 509
+      },
+      "head_to_head": [
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 11.0,
+          "wins": 8.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 10.0,
+          "wins": 6.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 10.0,
+          "wins": 4.0,
+          "losses": 6.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 9.0,
+          "wins": 5.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 8.0,
+          "wins": 4.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 8.0,
+          "wins": 5.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 8.0,
+          "wins": 5.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 7.0,
+          "wins": 6.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 6.0,
+          "wins": 4.0,
+          "losses": 2.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 3998,
+          "legal_balls": 2772,
+          "run_rate": 8.65,
+          "wickets": 90,
+          "fours": 495,
+          "sixes": 105,
+          "dots": 1151
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 6085,
+          "legal_balls": 4151,
+          "run_rate": 8.8,
+          "wickets": 160,
+          "fours": 472,
+          "sixes": 215,
+          "dots": 1084
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 3660,
+          "legal_balls": 2036,
+          "run_rate": 10.79,
+          "wickets": 166,
+          "fours": 265,
+          "sixes": 198,
+          "dots": 529
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "Shubman Gill",
+          "runs": 3181.0,
+          "strike_rate": 153.4
+        },
+        {
+          "player_name": "B Sai Sudharsan",
+          "runs": 2515.0,
+          "strike_rate": 150.2
+        },
+        {
+          "player_name": "JC Buttler",
+          "runs": 1064.0,
+          "strike_rate": 157.6
+        },
+        {
+          "player_name": "DA Miller",
+          "runs": 950.0,
+          "strike_rate": 145.7
+        },
+        {
+          "player_name": "HH Pandya",
+          "runs": 833.0,
+          "strike_rate": 134.1
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "Rashid Khan",
+          "wickets": 88,
+          "economy": 8.28
+        },
+        {
+          "player_name": "Mohammed Shami",
+          "wickets": 49,
+          "economy": 8.02
+        },
+        {
+          "player_name": "MM Sharma",
+          "wickets": 47,
+          "economy": 9.45
+        },
+        {
+          "player_name": "M Prasidh Krishna",
+          "wickets": 44,
+          "economy": 9.13
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "wickets": 36,
+          "economy": 9.15
+        }
+      ]
+    },
+    "Chennai Super Kings": {
+      "summary": {
+        "team_name": "Chennai Super Kings",
+        "matches": 266,
+        "wins": 148,
+        "losses": 116,
+        "win_pct": 55.64,
+        "total_runs_scored": 43600,
+        "total_runs_conceded": 42180,
+        "wickets_taken": 1646
+      },
+      "head_to_head": [
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 41.0,
+          "wins": 20.0,
+          "losses": 21.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 35.0,
+          "wins": 21.0,
+          "losses": 14.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 34.0,
+          "wins": 21.0,
+          "losses": 13.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 33.0,
+          "wins": 16.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 33.0,
+          "wins": 21.0,
+          "losses": 12.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 32.0,
+          "wins": 21.0,
+          "losses": 11.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 32.0,
+          "wins": 16.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 10.0,
+          "wins": 4.0,
+          "losses": 6.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 8.0,
+          "wins": 3.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 6.0,
+          "wins": 4.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 2.0,
+          "wins": 1.0,
+          "losses": 1.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 12562,
+          "legal_balls": 9545,
+          "run_rate": 7.9,
+          "wickets": 358,
+          "fours": 1463,
+          "sixes": 400,
+          "dots": 4504
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 18646,
+          "legal_balls": 14208,
+          "run_rate": 7.87,
+          "wickets": 570,
+          "fours": 1271,
+          "sixes": 695,
+          "dots": 4473
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 12392,
+          "legal_balls": 7145,
+          "run_rate": 10.41,
+          "wickets": 496,
+          "fours": 867,
+          "sixes": 628,
+          "dots": 1831
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "MS Dhoni",
+          "runs": 4865.0,
+          "strike_rate": 140.0
+        },
+        {
+          "player_name": "SK Raina",
+          "runs": 4695.0,
+          "strike_rate": 137.7
+        },
+        {
+          "player_name": "RD Gaikwad",
+          "runs": 2839.0,
+          "strike_rate": 136.3
+        },
+        {
+          "player_name": "F du Plessis",
+          "runs": 2721.0,
+          "strike_rate": 131.7
+        },
+        {
+          "player_name": "RA Jadeja",
+          "runs": 2198.0,
+          "strike_rate": 136.6
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "DJ Bravo",
+          "wickets": 158,
+          "economy": 8.37
+        },
+        {
+          "player_name": "RA Jadeja",
+          "wickets": 149,
+          "economy": 7.64
+        },
+        {
+          "player_name": "R Ashwin",
+          "wickets": 106,
+          "economy": 6.68
+        },
+        {
+          "player_name": "JA Morkel",
+          "wickets": 86,
+          "economy": 8.1
+        },
+        {
+          "player_name": "DL Chahar",
+          "wickets": 78,
+          "economy": 7.91
+        }
+      ]
+    },
+    "Mumbai Indians": {
+      "summary": {
+        "team_name": "Mumbai Indians",
+        "matches": 291,
+        "wins": 155,
+        "losses": 132,
+        "win_pct": 53.26,
+        "total_runs_scored": 47641,
+        "total_runs_conceded": 46648,
+        "wickets_taken": 1782
+      },
+      "head_to_head": [
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 41.0,
+          "wins": 21.0,
+          "losses": 20.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 38.0,
+          "wins": 21.0,
+          "losses": 17.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 37.0,
+          "wins": 25.0,
+          "losses": 12.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 36.0,
+          "wins": 18.0,
+          "losses": 17.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 36.0,
+          "wins": 19.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 36.0,
+          "wins": 20.0,
+          "losses": 15.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 32.0,
+          "wins": 16.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 9.0,
+          "wins": 3.0,
+          "losses": 6.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 9.0,
+          "wins": 4.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 6.0,
+          "wins": 5.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Rising Pune Supergiants",
+          "matches": 6.0,
+          "wins": 2.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Gujarat Lions",
+          "matches": 4.0,
+          "wins": 1.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 1.0,
+          "wins": 0.0,
+          "losses": 1.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 13939,
+          "legal_balls": 10499,
+          "run_rate": 7.97,
+          "wickets": 413,
+          "fours": 1603,
+          "sixes": 465,
+          "dots": 4992
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 20464,
+          "legal_balls": 15530,
+          "run_rate": 7.91,
+          "wickets": 666,
+          "fours": 1515,
+          "sixes": 762,
+          "dots": 5086
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 13238,
+          "legal_balls": 7636,
+          "run_rate": 10.4,
+          "wickets": 670,
+          "fours": 973,
+          "sixes": 729,
+          "dots": 2229
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "RG Sharma",
+          "runs": 6161.0,
+          "strike_rate": 133.6
+        },
+        {
+          "player_name": "SA Yadav",
+          "runs": 3973.0,
+          "strike_rate": 151.9
+        },
+        {
+          "player_name": "KA Pollard",
+          "runs": 3437.0,
+          "strike_rate": 148.5
+        },
+        {
+          "player_name": "AT Rayudu",
+          "runs": 2416.0,
+          "strike_rate": 126.7
+        },
+        {
+          "player_name": "SR Tendulkar",
+          "runs": 2334.0,
+          "strike_rate": 120.2
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "JJ Bumrah",
+          "wickets": 208,
+          "economy": 7.34
+        },
+        {
+          "player_name": "SL Malinga",
+          "wickets": 188,
+          "economy": 7.15
+        },
+        {
+          "player_name": "Harbhajan Singh",
+          "wickets": 136,
+          "economy": 6.96
+        },
+        {
+          "player_name": "KA Pollard",
+          "wickets": 81,
+          "economy": 8.79
+        },
+        {
+          "player_name": "HH Pandya",
+          "wickets": 76,
+          "economy": 9.65
+        }
+      ]
+    },
+    "Kolkata Knight Riders": {
+      "summary": {
+        "team_name": "Kolkata Knight Riders",
+        "matches": 278,
+        "wins": 140,
+        "losses": 131,
+        "win_pct": 50.36,
+        "total_runs_scored": 43646,
+        "total_runs_conceded": 43747,
+        "wickets_taken": 1632
+      },
+      "head_to_head": [
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 41.0,
+          "wins": 27.0,
+          "losses": 13.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 37.0,
+          "wins": 12.0,
+          "losses": 25.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 36.0,
+          "wins": 21.0,
+          "losses": 13.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 36.0,
+          "wins": 20.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 36.0,
+          "wins": 20.0,
+          "losses": 15.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 32.0,
+          "wins": 11.0,
+          "losses": 21.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 31.0,
+          "wins": 17.0,
+          "losses": 12.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 8.0,
+          "wins": 2.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 6.0,
+          "wins": 2.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 5.0,
+          "wins": 4.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Rising Pune Supergiants",
+          "matches": 4.0,
+          "wins": 3.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Gujarat Lions",
+          "matches": 4.0,
+          "wins": 1.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 2.0,
+          "wins": 0.0,
+          "losses": 2.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 13388,
+          "legal_balls": 9977,
+          "run_rate": 8.05,
+          "wickets": 438,
+          "fours": 1610,
+          "sixes": 416,
+          "dots": 4696
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 19102,
+          "legal_balls": 14526,
+          "run_rate": 7.89,
+          "wickets": 635,
+          "fours": 1357,
+          "sixes": 725,
+          "dots": 4823
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 11156,
+          "legal_balls": 6690,
+          "run_rate": 10.01,
+          "wickets": 577,
+          "fours": 844,
+          "sixes": 559,
+          "dots": 1969
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "G Gambhir",
+          "runs": 3035.0,
+          "strike_rate": 124.6
+        },
+        {
+          "player_name": "AD Russell",
+          "runs": 2597.0,
+          "strike_rate": 176.9
+        },
+        {
+          "player_name": "RV Uthappa",
+          "runs": 2441.0,
+          "strike_rate": 136.4
+        },
+        {
+          "player_name": "N Rana",
+          "runs": 2199.0,
+          "strike_rate": 136.8
+        },
+        {
+          "player_name": "YK Pathan",
+          "runs": 1893.0,
+          "strike_rate": 139.0
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "SP Narine",
+          "wickets": 229,
+          "economy": 6.79
+        },
+        {
+          "player_name": "AD Russell",
+          "wickets": 132,
+          "economy": 9.47
+        },
+        {
+          "player_name": "CV Varun",
+          "wickets": 113,
+          "economy": 7.68
+        },
+        {
+          "player_name": "UT Yadav",
+          "wickets": 71,
+          "economy": 8.41
+        },
+        {
+          "player_name": "PP Chawla",
+          "wickets": 68,
+          "economy": 8.22
+        }
+      ]
+    },
+    "Rising Pune Supergiants": {
+      "summary": {
+        "team_name": "Rising Pune Supergiants",
+        "matches": 30,
+        "wins": 15,
+        "losses": 15,
+        "win_pct": 50.0,
+        "total_runs_scored": 4533,
+        "total_runs_conceded": 4549,
+        "wickets_taken": 189
+      },
+      "head_to_head": [
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 6.0,
+          "wins": 4.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 4.0,
+          "wins": 3.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 4.0,
+          "wins": 1.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Gujarat Lions",
+          "matches": 4.0,
+          "wins": 1.0,
+          "losses": 3.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 1423,
+          "legal_balls": 1080,
+          "run_rate": 7.91,
+          "wickets": 38,
+          "fours": 172,
+          "sixes": 36,
+          "dots": 456
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 1899,
+          "legal_balls": 1552,
+          "run_rate": 7.34,
+          "wickets": 55,
+          "fours": 120,
+          "sixes": 55,
+          "dots": 478
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 1211,
+          "legal_balls": 732,
+          "run_rate": 9.93,
+          "wickets": 65,
+          "fours": 75,
+          "sixes": 66,
+          "dots": 203
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "AM Rahane",
+          "runs": 862.0,
+          "strike_rate": 123.0
+        },
+        {
+          "player_name": "SPD Smith",
+          "runs": 742.0,
+          "strike_rate": 132.0
+        },
+        {
+          "player_name": "MS Dhoni",
+          "runs": 574.0,
+          "strike_rate": 124.8
+        },
+        {
+          "player_name": "RA Tripathi",
+          "runs": 391.0,
+          "strike_rate": 146.4
+        },
+        {
+          "player_name": "MK Tiwary",
+          "runs": 324.0,
+          "strike_rate": 137.9
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "JD Unadkat",
+          "wickets": 27,
+          "economy": 7.03
+        },
+        {
+          "player_name": "A Zampa",
+          "wickets": 19,
+          "economy": 7.55
+        },
+        {
+          "player_name": "Imran Tahir",
+          "wickets": 19,
+          "economy": 7.85
+        },
+        {
+          "player_name": "AB Dinda",
+          "wickets": 15,
+          "economy": 8.64
+        },
+        {
+          "player_name": "BA Stokes",
+          "wickets": 14,
+          "economy": 7.18
+        }
+      ]
+    },
+    "Royal Challengers Bengaluru": {
+      "summary": {
+        "team_name": "Royal Challengers Bengaluru",
+        "matches": 286,
+        "wins": 143,
+        "losses": 137,
+        "win_pct": 50.0,
+        "total_runs_scored": 46332,
+        "total_runs_conceded": 46340,
+        "wickets_taken": 1695
+      },
+      "head_to_head": [
+        {
+          "opponent": "Punjab Kings",
+          "matches": 38.0,
+          "wins": 20.0,
+          "losses": 18.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 38.0,
+          "wins": 17.0,
+          "losses": 20.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 36.0,
+          "wins": 16.0,
+          "losses": 20.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 36.0,
+          "wins": 16.0,
+          "losses": 19.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 35.0,
+          "wins": 20.0,
+          "losses": 13.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 35.0,
+          "wins": 14.0,
+          "losses": 21.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 34.0,
+          "wins": 17.0,
+          "losses": 15.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 10.0,
+          "wins": 6.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 8.0,
+          "wins": 5.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Gujarat Lions",
+          "matches": 5.0,
+          "wins": 3.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 5.0,
+          "wins": 5.0,
+          "losses": 0.0
+        },
+        {
+          "opponent": "Rising Pune Supergiants",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 2.0,
+          "wins": 2.0,
+          "losses": 0.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 13677,
+          "legal_balls": 10278,
+          "run_rate": 7.98,
+          "wickets": 400,
+          "fours": 1626,
+          "sixes": 424,
+          "dots": 4721
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 20003,
+          "legal_balls": 14914,
+          "run_rate": 8.05,
+          "wickets": 650,
+          "fours": 1325,
+          "sixes": 793,
+          "dots": 4634
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 12652,
+          "legal_balls": 7143,
+          "run_rate": 10.63,
+          "wickets": 599,
+          "fours": 911,
+          "sixes": 709,
+          "dots": 2028
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "V Kohli",
+          "runs": 9346.0,
+          "strike_rate": 135.2
+        },
+        {
+          "player_name": "AB de Villiers",
+          "runs": 4510.0,
+          "strike_rate": 159.4
+        },
+        {
+          "player_name": "CH Gayle",
+          "runs": 3175.0,
+          "strike_rate": 153.9
+        },
+        {
+          "player_name": "F du Plessis",
+          "runs": 1636.0,
+          "strike_rate": 147.4
+        },
+        {
+          "player_name": "RM Patidar",
+          "runs": 1612.0,
+          "strike_rate": 164.8
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "YS Chahal",
+          "wickets": 143,
+          "economy": 7.58
+        },
+        {
+          "player_name": "HV Patel",
+          "wickets": 108,
+          "economy": 8.48
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "wickets": 86,
+          "economy": 8.6
+        },
+        {
+          "player_name": "R Vinay Kumar",
+          "wickets": 83,
+          "economy": 8.43
+        },
+        {
+          "player_name": "JR Hazlewood",
+          "wickets": 61,
+          "economy": 8.83
+        }
+      ]
+    },
+    "Rajasthan Royals": {
+      "summary": {
+        "team_name": "Rajasthan Royals",
+        "matches": 251,
+        "wins": 123,
+        "losses": 122,
+        "win_pct": 49.0,
+        "total_runs_scored": 40437,
+        "total_runs_conceded": 40992,
+        "wickets_taken": 1450
+      },
+      "head_to_head": [
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 34.0,
+          "wins": 15.0,
+          "losses": 17.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 33.0,
+          "wins": 17.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 32.0,
+          "wins": 15.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 32.0,
+          "wins": 16.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 32.0,
+          "wins": 16.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 31.0,
+          "wins": 18.0,
+          "losses": 12.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 31.0,
+          "wins": 12.0,
+          "losses": 17.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 11.0,
+          "wins": 3.0,
+          "losses": 8.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 8.0,
+          "wins": 6.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 5.0,
+          "wins": 4.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 2.0,
+          "wins": 1.0,
+          "losses": 1.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 12271,
+          "legal_balls": 9002,
+          "run_rate": 8.18,
+          "wickets": 339,
+          "fours": 1529,
+          "sixes": 403,
+          "dots": 4295
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 17794,
+          "legal_balls": 13317,
+          "run_rate": 8.02,
+          "wickets": 624,
+          "fours": 1277,
+          "sixes": 653,
+          "dots": 4292
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 10372,
+          "legal_balls": 6383,
+          "run_rate": 9.75,
+          "wickets": 542,
+          "fours": 736,
+          "sixes": 500,
+          "dots": 1841
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "SV Samson",
+          "runs": 4027.0,
+          "strike_rate": 141.9
+        },
+        {
+          "player_name": "JC Buttler",
+          "runs": 3055.0,
+          "strike_rate": 148.5
+        },
+        {
+          "player_name": "AM Rahane",
+          "runs": 2810.0,
+          "strike_rate": 122.7
+        },
+        {
+          "player_name": "YBK Jaiswal",
+          "runs": 2593.0,
+          "strike_rate": 153.3
+        },
+        {
+          "player_name": "SR Watson",
+          "runs": 2378.0,
+          "strike_rate": 142.1
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "JC Archer",
+          "wickets": 88,
+          "economy": 8.11
+        },
+        {
+          "player_name": "SK Trivedi",
+          "wickets": 73,
+          "economy": 7.59
+        },
+        {
+          "player_name": "SR Watson",
+          "wickets": 72,
+          "economy": 7.5
+        },
+        {
+          "player_name": "YS Chahal",
+          "wickets": 70,
+          "economy": 8.42
+        },
+        {
+          "player_name": "SK Warne",
+          "wickets": 60,
+          "economy": 7.27
+        }
+      ]
+    },
+    "Lucknow Super Giants": {
+      "summary": {
+        "team_name": "Lucknow Super Giants",
+        "matches": 72,
+        "wins": 34,
+        "losses": 36,
+        "win_pct": 47.22,
+        "total_runs_scored": 12754,
+        "total_runs_conceded": 12814,
+        "wickets_taken": 415
+      },
+      "head_to_head": [
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 9.0,
+          "wins": 6.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 8.0,
+          "wins": 3.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 8.0,
+          "wins": 2.0,
+          "losses": 6.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 8.0,
+          "wins": 3.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 8.0,
+          "wins": 3.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 8.0,
+          "wins": 4.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 8.0,
+          "wins": 5.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 8.0,
+          "wins": 3.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 7.0,
+          "wins": 5.0,
+          "losses": 2.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 3729,
+          "legal_balls": 2595,
+          "run_rate": 8.62,
+          "wickets": 106,
+          "fours": 386,
+          "sixes": 163,
+          "dots": 1160
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 5577,
+          "legal_balls": 3881,
+          "run_rate": 8.62,
+          "wickets": 182,
+          "fours": 375,
+          "sixes": 248,
+          "dots": 1158
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 3448,
+          "legal_balls": 1962,
+          "run_rate": 10.54,
+          "wickets": 165,
+          "fours": 236,
+          "sixes": 196,
+          "dots": 584
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "N Pooran",
+          "runs": 1615.0,
+          "strike_rate": 172.9
+        },
+        {
+          "player_name": "KL Rahul",
+          "runs": 1410.0,
+          "strike_rate": 131.2
+        },
+        {
+          "player_name": "MR Marsh",
+          "runs": 1190.0,
+          "strike_rate": 164.4
+        },
+        {
+          "player_name": "A Badoni",
+          "runs": 1178.0,
+          "strike_rate": 141.2
+        },
+        {
+          "player_name": "MP Stoinis",
+          "runs": 952.0,
+          "strike_rate": 149.2
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "Ravi Bishnoi",
+          "wickets": 50,
+          "economy": 8.81
+        },
+        {
+          "player_name": "Avesh Khan",
+          "wickets": 46,
+          "economy": 9.81
+        },
+        {
+          "player_name": "Mohsin Khan",
+          "wickets": 38,
+          "economy": 8.41
+        },
+        {
+          "player_name": "Yash Thakur",
+          "wickets": 27,
+          "economy": 10.26
+        },
+        {
+          "player_name": "KH Pandya",
+          "wickets": 26,
+          "economy": 7.37
+        }
+      ]
+    },
+    "Sunrisers Hyderabad": {
+      "summary": {
+        "team_name": "Sunrisers Hyderabad",
+        "matches": 286,
+        "wins": 131,
+        "losses": 150,
+        "win_pct": 45.8,
+        "total_runs_scored": 46103,
+        "total_runs_conceded": 46223,
+        "wickets_taken": 1703
+      },
+      "head_to_head": [
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 41.0,
+          "wins": 13.0,
+          "losses": 27.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 38.0,
+          "wins": 20.0,
+          "losses": 17.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 38.0,
+          "wins": 18.0,
+          "losses": 18.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 36.0,
+          "wins": 21.0,
+          "losses": 15.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 36.0,
+          "wins": 15.0,
+          "losses": 20.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 34.0,
+          "wins": 13.0,
+          "losses": 21.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 33.0,
+          "wins": 16.0,
+          "losses": 17.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 7.0,
+          "wins": 1.0,
+          "losses": 6.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 7.0,
+          "wins": 2.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 6.0,
+          "wins": 5.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Gujarat Lions",
+          "matches": 5.0,
+          "wins": 5.0,
+          "losses": 0.0
+        },
+        {
+          "opponent": "Rising Pune Supergiants",
+          "matches": 4.0,
+          "wins": 1.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 1.0,
+          "wins": 1.0,
+          "losses": 0.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 14112,
+          "legal_balls": 10269,
+          "run_rate": 8.25,
+          "wickets": 392,
+          "fours": 1657,
+          "sixes": 424,
+          "dots": 4599
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 19885,
+          "legal_balls": 15195,
+          "run_rate": 7.85,
+          "wickets": 631,
+          "fours": 1325,
+          "sixes": 727,
+          "dots": 4758
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 12106,
+          "legal_balls": 7582,
+          "run_rate": 9.58,
+          "wickets": 703,
+          "fours": 830,
+          "sixes": 570,
+          "dots": 2151
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "DA Warner",
+          "runs": 4016.0,
+          "strike_rate": 143.2
+        },
+        {
+          "player_name": "S Dhawan",
+          "runs": 3487.0,
+          "strike_rate": 126.1
+        },
+        {
+          "player_name": "Abhishek Sharma",
+          "runs": 2316.0,
+          "strike_rate": 171.6
+        },
+        {
+          "player_name": "KS Williamson",
+          "runs": 2105.0,
+          "strike_rate": 126.4
+        },
+        {
+          "player_name": "H Klaasen",
+          "runs": 2038.0,
+          "strike_rate": 170.3
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "B Kumar",
+          "wickets": 170,
+          "economy": 7.73
+        },
+        {
+          "player_name": "Rashid Khan",
+          "wickets": 99,
+          "economy": 6.34
+        },
+        {
+          "player_name": "T Natarajan",
+          "wickets": 74,
+          "economy": 8.82
+        },
+        {
+          "player_name": "DW Steyn",
+          "wickets": 67,
+          "economy": 6.71
+        },
+        {
+          "player_name": "PP Ojha",
+          "wickets": 66,
+          "economy": 7.16
+        }
+      ]
+    },
+    "Punjab Kings": {
+      "summary": {
+        "team_name": "Punjab Kings",
+        "matches": 278,
+        "wins": 126,
+        "losses": 145,
+        "win_pct": 45.32,
+        "total_runs_scored": 45573,
+        "total_runs_conceded": 45650,
+        "wickets_taken": 1575
+      },
+      "head_to_head": [
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 38.0,
+          "wins": 18.0,
+          "losses": 20.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 37.0,
+          "wins": 18.0,
+          "losses": 17.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 36.0,
+          "wins": 15.0,
+          "losses": 21.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 36.0,
+          "wins": 17.0,
+          "losses": 18.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 36.0,
+          "wins": 13.0,
+          "losses": 21.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 33.0,
+          "wins": 16.0,
+          "losses": 16.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 31.0,
+          "wins": 12.0,
+          "losses": 18.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 8.0,
+          "wins": 4.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 8.0,
+          "wins": 5.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 6.0,
+          "wins": 3.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Rising Pune Supergiants",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Gujarat Lions",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 1.0,
+          "wins": 1.0,
+          "losses": 0.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 13724,
+          "legal_balls": 9994,
+          "run_rate": 8.24,
+          "wickets": 424,
+          "fours": 1650,
+          "sixes": 438,
+          "dots": 4572
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 19916,
+          "legal_balls": 14698,
+          "run_rate": 8.13,
+          "wickets": 672,
+          "fours": 1393,
+          "sixes": 798,
+          "dots": 4690
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 11933,
+          "legal_balls": 7186,
+          "run_rate": 9.96,
+          "wickets": 610,
+          "fours": 846,
+          "sixes": 613,
+          "dots": 2071
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "KL Rahul",
+          "runs": 2554.0,
+          "strike_rate": 140.1
+        },
+        {
+          "player_name": "SE Marsh",
+          "runs": 2489.0,
+          "strike_rate": 133.4
+        },
+        {
+          "player_name": "P Simran Singh",
+          "runs": 1865.0,
+          "strike_rate": 157.5
+        },
+        {
+          "player_name": "DA Miller",
+          "runs": 1850.0,
+          "strike_rate": 139.3
+        },
+        {
+          "player_name": "MA Agarwal",
+          "runs": 1521.0,
+          "strike_rate": 142.3
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "Arshdeep Singh",
+          "wickets": 120,
+          "economy": 9.19
+        },
+        {
+          "player_name": "PP Chawla",
+          "wickets": 89,
+          "economy": 7.52
+        },
+        {
+          "player_name": "Sandeep Sharma",
+          "wickets": 79,
+          "economy": 7.76
+        },
+        {
+          "player_name": "Mohammed Shami",
+          "wickets": 65,
+          "economy": 8.24
+        },
+        {
+          "player_name": "AR Patel",
+          "wickets": 64,
+          "economy": 7.53
+        }
+      ]
+    },
+    "Delhi Capitals": {
+      "summary": {
+        "team_name": "Delhi Capitals",
+        "matches": 281,
+        "wins": 125,
+        "losses": 147,
+        "win_pct": 44.48,
+        "total_runs_scored": 44255,
+        "total_runs_conceded": 45248,
+        "wickets_taken": 1646
+      },
+      "head_to_head": [
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 38.0,
+          "wins": 18.0,
+          "losses": 18.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 38.0,
+          "wins": 17.0,
+          "losses": 21.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 37.0,
+          "wins": 17.0,
+          "losses": 18.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 36.0,
+          "wins": 15.0,
+          "losses": 20.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 35.0,
+          "wins": 13.0,
+          "losses": 20.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 33.0,
+          "wins": 12.0,
+          "losses": 21.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 32.0,
+          "wins": 16.0,
+          "losses": 15.0
+        },
+        {
+          "opponent": "Gujarat Titans",
+          "matches": 8.0,
+          "wins": 3.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Lucknow Super Giants",
+          "matches": 8.0,
+          "wins": 5.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 6.0,
+          "wins": 3.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Rising Pune Supergiants",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Gujarat Lions",
+          "matches": 4.0,
+          "wins": 3.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 2.0,
+          "wins": 1.0,
+          "losses": 1.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 13546,
+          "legal_balls": 10097,
+          "run_rate": 8.05,
+          "wickets": 473,
+          "fours": 1688,
+          "sixes": 384,
+          "dots": 4649
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 19207,
+          "legal_balls": 14821,
+          "run_rate": 7.78,
+          "wickets": 649,
+          "fours": 1395,
+          "sixes": 625,
+          "dots": 4657
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 11502,
+          "legal_balls": 7010,
+          "run_rate": 9.84,
+          "wickets": 575,
+          "fours": 857,
+          "sixes": 561,
+          "dots": 2017
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "RR Pant",
+          "runs": 3297.0,
+          "strike_rate": 149.5
+        },
+        {
+          "player_name": "DA Warner",
+          "runs": 2551.0,
+          "strike_rate": 136.1
+        },
+        {
+          "player_name": "SS Iyer",
+          "runs": 2379.0,
+          "strike_rate": 124.4
+        },
+        {
+          "player_name": "V Sehwag",
+          "runs": 2174.0,
+          "strike_rate": 162.0
+        },
+        {
+          "player_name": "S Dhawan",
+          "runs": 2066.0,
+          "strike_rate": 131.3
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "A Mishra",
+          "wickets": 111,
+          "economy": 7.35
+        },
+        {
+          "player_name": "K Rabada",
+          "wickets": 85,
+          "economy": 8.19
+        },
+        {
+          "player_name": "AR Patel",
+          "wickets": 84,
+          "economy": 7.36
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "wickets": 73,
+          "economy": 8.3
+        },
+        {
+          "player_name": "A Nortje",
+          "wickets": 62,
+          "economy": 8.96
+        }
+      ]
+    },
+    "Gujarat Lions": {
+      "summary": {
+        "team_name": "Gujarat Lions",
+        "matches": 30,
+        "wins": 13,
+        "losses": 16,
+        "win_pct": 43.33,
+        "total_runs_scored": 4862,
+        "total_runs_conceded": 5090,
+        "wickets_taken": 151
+      },
+      "head_to_head": [
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 5.0,
+          "wins": 2.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 5.0,
+          "wins": 0.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 4.0,
+          "wins": 2.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 4.0,
+          "wins": 3.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Rising Pune Supergiants",
+          "matches": 4.0,
+          "wins": 3.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 4.0,
+          "wins": 1.0,
+          "losses": 3.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 1559,
+          "legal_balls": 1086,
+          "run_rate": 8.61,
+          "wickets": 44,
+          "fours": 185,
+          "sixes": 56,
+          "dots": 476
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 2144,
+          "legal_balls": 1604,
+          "run_rate": 8.02,
+          "wickets": 80,
+          "fours": 171,
+          "sixes": 65,
+          "dots": 471
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 1159,
+          "legal_balls": 749,
+          "run_rate": 9.28,
+          "wickets": 64,
+          "fours": 101,
+          "sixes": 34,
+          "dots": 208
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "SK Raina",
+          "runs": 841.0,
+          "strike_rate": 136.5
+        },
+        {
+          "player_name": "KD Karthik",
+          "runs": 696.0,
+          "strike_rate": 132.8
+        },
+        {
+          "player_name": "AJ Finch",
+          "runs": 693.0,
+          "strike_rate": 144.7
+        },
+        {
+          "player_name": "BB McCullum",
+          "runs": 674.0,
+          "strike_rate": 139.8
+        },
+        {
+          "player_name": "DR Smith",
+          "runs": 563.0,
+          "strike_rate": 149.7
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "DS Kulkarni",
+          "wickets": 23,
+          "economy": 7.92
+        },
+        {
+          "player_name": "DJ Bravo",
+          "wickets": 19,
+          "economy": 8.82
+        },
+        {
+          "player_name": "P Kumar",
+          "wickets": 16,
+          "economy": 8.12
+        },
+        {
+          "player_name": "Basil Thampi",
+          "wickets": 15,
+          "economy": 9.49
+        },
+        {
+          "player_name": "RA Jadeja",
+          "wickets": 14,
+          "economy": 8.44
+        }
+      ]
+    },
+    "Kochi Tuskers Kerala": {
+      "summary": {
+        "team_name": "Kochi Tuskers Kerala",
+        "matches": 14,
+        "wins": 6,
+        "losses": 8,
+        "win_pct": 42.86,
+        "total_runs_scored": 1901,
+        "total_runs_conceded": 1986,
+        "wickets_taken": 74
+      },
+      "head_to_head": [
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 2.0,
+          "wins": 0.0,
+          "losses": 2.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 2.0,
+          "wins": 1.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 2.0,
+          "wins": 1.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 2.0,
+          "wins": 1.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 2.0,
+          "wins": 2.0,
+          "losses": 0.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 1.0,
+          "wins": 0.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Pune Warriors",
+          "matches": 1.0,
+          "wins": 0.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 1.0,
+          "wins": 0.0,
+          "losses": 1.0
+        },
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 1.0,
+          "wins": 1.0,
+          "losses": 0.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 680,
+          "legal_balls": 504,
+          "run_rate": 8.1,
+          "wickets": 23,
+          "fours": 85,
+          "sixes": 16,
+          "dots": 242
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 831,
+          "legal_balls": 710,
+          "run_rate": 7.02,
+          "wickets": 27,
+          "fours": 59,
+          "sixes": 21,
+          "dots": 257
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 390,
+          "legal_balls": 296,
+          "run_rate": 7.91,
+          "wickets": 36,
+          "fours": 26,
+          "sixes": 14,
+          "dots": 96
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "BB McCullum",
+          "runs": 357.0,
+          "strike_rate": 131.3
+        },
+        {
+          "player_name": "DPMD Jayawardene",
+          "runs": 299.0,
+          "strike_rate": 116.3
+        },
+        {
+          "player_name": "BJ Hodge",
+          "runs": 285.0,
+          "strike_rate": 121.8
+        },
+        {
+          "player_name": "RA Jadeja",
+          "runs": 283.0,
+          "strike_rate": 124.7
+        },
+        {
+          "player_name": "PA Patel",
+          "runs": 202.0,
+          "strike_rate": 111.0
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "R Vinay Kumar",
+          "wickets": 17,
+          "economy": 7.5
+        },
+        {
+          "player_name": "RP Singh",
+          "wickets": 15,
+          "economy": 6.9
+        },
+        {
+          "player_name": "RA Jadeja",
+          "wickets": 9,
+          "economy": 7.26
+        },
+        {
+          "player_name": "BJ Hodge",
+          "wickets": 8,
+          "economy": 7.0
+        },
+        {
+          "player_name": "S Sreesanth",
+          "wickets": 7,
+          "economy": 6.47
+        }
+      ]
+    },
+    "Pune Warriors": {
+      "summary": {
+        "team_name": "Pune Warriors",
+        "matches": 46,
+        "wins": 12,
+        "losses": 33,
+        "win_pct": 26.09,
+        "total_runs_scored": 6358,
+        "total_runs_conceded": 6857,
+        "wickets_taken": 238
+      },
+      "head_to_head": [
+        {
+          "opponent": "Mumbai Indians",
+          "matches": 6.0,
+          "wins": 1.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Delhi Capitals",
+          "matches": 6.0,
+          "wins": 2.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Sunrisers Hyderabad",
+          "matches": 6.0,
+          "wins": 1.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Chennai Super Kings",
+          "matches": 6.0,
+          "wins": 2.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Punjab Kings",
+          "matches": 6.0,
+          "wins": 3.0,
+          "losses": 3.0
+        },
+        {
+          "opponent": "Rajasthan Royals",
+          "matches": 5.0,
+          "wins": 1.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Royal Challengers Bengaluru",
+          "matches": 5.0,
+          "wins": 0.0,
+          "losses": 5.0
+        },
+        {
+          "opponent": "Kolkata Knight Riders",
+          "matches": 5.0,
+          "wins": 1.0,
+          "losses": 4.0
+        },
+        {
+          "opponent": "Kochi Tuskers Kerala",
+          "matches": 1.0,
+          "wins": 1.0,
+          "losses": 0.0
+        }
+      ],
+      "phase_performance": [
+        {
+          "match_phase": "Powerplay",
+          "runs": 1895,
+          "legal_balls": 1620,
+          "run_rate": 7.02,
+          "wickets": 76,
+          "fours": 232,
+          "sixes": 34,
+          "dots": 795
+        },
+        {
+          "match_phase": "Middle Overs",
+          "runs": 2730,
+          "legal_balls": 2419,
+          "run_rate": 6.77,
+          "wickets": 107,
+          "fours": 185,
+          "sixes": 84,
+          "dots": 916
+        },
+        {
+          "match_phase": "Death Overs",
+          "runs": 1733,
+          "legal_balls": 1236,
+          "run_rate": 8.41,
+          "wickets": 115,
+          "fours": 102,
+          "sixes": 77,
+          "dots": 388
+        }
+      ],
+      "top_batters": [
+        {
+          "player_name": "RV Uthappa",
+          "runs": 1103.0,
+          "strike_rate": 120.5
+        },
+        {
+          "player_name": "Yuvraj Singh",
+          "runs": 581.0,
+          "strike_rate": 128.8
+        },
+        {
+          "player_name": "JD Ryder",
+          "runs": 548.0,
+          "strike_rate": 134.6
+        },
+        {
+          "player_name": "MK Pandey",
+          "runs": 525.0,
+          "strike_rate": 110.8
+        },
+        {
+          "player_name": "SPD Smith",
+          "runs": 521.0,
+          "strike_rate": 132.2
+        }
+      ],
+      "top_bowlers": [
+        {
+          "player_name": "R Sharma",
+          "wickets": 35,
+          "economy": 6.67
+        },
+        {
+          "player_name": "AB Dinda",
+          "wickets": 28,
+          "economy": 8.68
+        },
+        {
+          "player_name": "B Kumar",
+          "wickets": 25,
+          "economy": 6.72
+        },
+        {
+          "player_name": "WD Parnell",
+          "wickets": 24,
+          "economy": 7.34
+        },
+        {
+          "player_name": "AC Thomas",
+          "wickets": 16,
+          "economy": 7.73
+        }
+      ]
+    }
+  }
+}

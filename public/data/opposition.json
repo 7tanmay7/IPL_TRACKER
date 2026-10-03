@@ -1,0 +1,1318 @@
+{
+  "Gujarat Titans": {
+    "opponent": "Gujarat Titans",
+    "summary": {
+      "team_name": "Gujarat Titans",
+      "matches": 77,
+      "wins": 47,
+      "losses": 30,
+      "win_pct": 61.04,
+      "total_runs_scored": 13743,
+      "total_runs_conceded": 13414,
+      "wickets_taken": 509
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "V Kohli",
+        "runs": 578.0,
+        "balls": 369,
+        "strike_rate": 156.6
+      },
+      {
+        "player_name": "RD Gaikwad",
+        "runs": 440.0,
+        "balls": 312,
+        "strike_rate": 141.0
+      },
+      {
+        "player_name": "KL Rahul",
+        "runs": 341.0,
+        "balls": 240,
+        "strike_rate": 142.1
+      },
+      {
+        "player_name": "SA Yadav",
+        "runs": 331.0,
+        "balls": 192,
+        "strike_rate": 172.4
+      },
+      {
+        "player_name": "SV Samson",
+        "runs": 282.0,
+        "balls": 182,
+        "strike_rate": 154.9
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "B Kumar",
+        "wickets": 17,
+        "economy": 7.39
+      },
+      {
+        "player_name": "Vijaykumar Vyshak",
+        "wickets": 10,
+        "economy": 8.43
+      },
+      {
+        "player_name": "TU Deshpande",
+        "wickets": 9,
+        "economy": 11.01
+      },
+      {
+        "player_name": "M Pathirana",
+        "wickets": 9,
+        "economy": 8.82
+      },
+      {
+        "player_name": "Avesh Khan",
+        "wickets": 9,
+        "economy": 9.44
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.65,
+        "wickets_lost": 90
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 8.8,
+        "wickets_lost": 160
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 10.79,
+        "wickets_lost": 166
+      }
+    ],
+    "tactical_observations": [
+      "Gujarat Titans exhibits an average win rate of 61.04% across historical IPL matches.",
+      "Powerplay scoring average is 8.65 RPO.",
+      "Death-overs scoring average is 10.79 RPO."
+    ]
+  },
+  "Chennai Super Kings": {
+    "opponent": "Chennai Super Kings",
+    "summary": {
+      "team_name": "Chennai Super Kings",
+      "matches": 266,
+      "wins": 148,
+      "losses": 116,
+      "win_pct": 55.64,
+      "total_runs_scored": 43600,
+      "total_runs_conceded": 42180,
+      "wickets_taken": 1646
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "V Kohli",
+        "runs": 1174.0,
+        "balls": 911,
+        "strike_rate": 128.9
+      },
+      {
+        "player_name": "S Dhawan",
+        "runs": 1057.0,
+        "balls": 798,
+        "strike_rate": 132.5
+      },
+      {
+        "player_name": "RG Sharma",
+        "runs": 972.0,
+        "balls": 741,
+        "strike_rate": 131.2
+      },
+      {
+        "player_name": "KD Karthik",
+        "runs": 727.0,
+        "balls": 524,
+        "strike_rate": 138.7
+      },
+      {
+        "player_name": "DA Warner",
+        "runs": 696.0,
+        "balls": 520,
+        "strike_rate": 133.8
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "SL Malinga",
+        "wickets": 37,
+        "economy": 7.24
+      },
+      {
+        "player_name": "SP Narine",
+        "wickets": 29,
+        "economy": 6.27
+      },
+      {
+        "player_name": "YS Chahal",
+        "wickets": 24,
+        "economy": 7.1
+      },
+      {
+        "player_name": "Harbhajan Singh",
+        "wickets": 24,
+        "economy": 6.56
+      },
+      {
+        "player_name": "PP Ojha",
+        "wickets": 23,
+        "economy": 6.48
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 7.9,
+        "wickets_lost": 358
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 7.87,
+        "wickets_lost": 570
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 10.41,
+        "wickets_lost": 496
+      }
+    ],
+    "tactical_observations": [
+      "Chennai Super Kings exhibits an average win rate of 55.64% across historical IPL matches.",
+      "Powerplay scoring average is 7.9 RPO.",
+      "Death-overs scoring average is 10.41 RPO."
+    ]
+  },
+  "Mumbai Indians": {
+    "opponent": "Mumbai Indians",
+    "summary": {
+      "team_name": "Mumbai Indians",
+      "matches": 291,
+      "wins": 155,
+      "losses": 132,
+      "win_pct": 53.26,
+      "total_runs_scored": 47641,
+      "total_runs_conceded": 46648,
+      "wickets_taken": 1782
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "KL Rahul",
+        "runs": 981.0,
+        "balls": 727,
+        "strike_rate": 134.9
+      },
+      {
+        "player_name": "V Kohli",
+        "runs": 977.0,
+        "balls": 755,
+        "strike_rate": 129.4
+      },
+      {
+        "player_name": "S Dhawan",
+        "runs": 901.0,
+        "balls": 700,
+        "strike_rate": 128.7
+      },
+      {
+        "player_name": "MK Pandey",
+        "runs": 842.0,
+        "balls": 640,
+        "strike_rate": 131.6
+      },
+      {
+        "player_name": "SK Raina",
+        "runs": 824.0,
+        "balls": 586,
+        "strike_rate": 140.6
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "DJ Bravo",
+        "wickets": 36,
+        "economy": 7.97
+      },
+      {
+        "player_name": "MM Sharma",
+        "wickets": 35,
+        "economy": 8.95
+      },
+      {
+        "player_name": "YS Chahal",
+        "wickets": 32,
+        "economy": 8.32
+      },
+      {
+        "player_name": "SP Narine",
+        "wickets": 30,
+        "economy": 6.88
+      },
+      {
+        "player_name": "B Kumar",
+        "wickets": 28,
+        "economy": 7.17
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 7.97,
+        "wickets_lost": 413
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 7.91,
+        "wickets_lost": 666
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 10.4,
+        "wickets_lost": 670
+      }
+    ],
+    "tactical_observations": [
+      "Mumbai Indians exhibits an average win rate of 53.26% across historical IPL matches.",
+      "Powerplay scoring average is 7.97 RPO.",
+      "Death-overs scoring average is 10.4 RPO."
+    ]
+  },
+  "Kolkata Knight Riders": {
+    "opponent": "Kolkata Knight Riders",
+    "summary": {
+      "team_name": "Kolkata Knight Riders",
+      "matches": 278,
+      "wins": 140,
+      "losses": 131,
+      "win_pct": 50.36,
+      "total_runs_scored": 43646,
+      "total_runs_conceded": 43747,
+      "wickets_taken": 1632
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "RG Sharma",
+        "runs": 1176.0,
+        "balls": 891,
+        "strike_rate": 132.0
+      },
+      {
+        "player_name": "V Kohli",
+        "runs": 1126.0,
+        "balls": 821,
+        "strike_rate": 137.1
+      },
+      {
+        "player_name": "DA Warner",
+        "runs": 1093.0,
+        "balls": 750,
+        "strike_rate": 145.7
+      },
+      {
+        "player_name": "S Dhawan",
+        "runs": 907.0,
+        "balls": 763,
+        "strike_rate": 118.9
+      },
+      {
+        "player_name": "SK Raina",
+        "runs": 829.0,
+        "balls": 606,
+        "strike_rate": 136.8
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "B Kumar",
+        "wickets": 35,
+        "economy": 8.02
+      },
+      {
+        "player_name": "YS Chahal",
+        "wickets": 33,
+        "economy": 7.97
+      },
+      {
+        "player_name": "JJ Bumrah",
+        "wickets": 28,
+        "economy": 7.72
+      },
+      {
+        "player_name": "DJ Bravo",
+        "wickets": 25,
+        "economy": 8.6
+      },
+      {
+        "player_name": "RA Jadeja",
+        "wickets": 25,
+        "economy": 7.34
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.05,
+        "wickets_lost": 438
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 7.89,
+        "wickets_lost": 635
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 10.01,
+        "wickets_lost": 577
+      }
+    ],
+    "tactical_observations": [
+      "Kolkata Knight Riders exhibits an average win rate of 50.36% across historical IPL matches.",
+      "Powerplay scoring average is 8.05 RPO.",
+      "Death-overs scoring average is 10.01 RPO."
+    ]
+  },
+  "Rising Pune Supergiants": {
+    "opponent": "Rising Pune Supergiants",
+    "summary": {
+      "team_name": "Rising Pune Supergiants",
+      "matches": 30,
+      "wins": 15,
+      "losses": 15,
+      "win_pct": 50.0,
+      "total_runs_scored": 4533,
+      "total_runs_conceded": 4549,
+      "wickets_taken": 189
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "V Kohli",
+        "runs": 271.0,
+        "balls": 187,
+        "strike_rate": 144.9
+      },
+      {
+        "player_name": "BB McCullum",
+        "runs": 186.0,
+        "balls": 112,
+        "strike_rate": 166.1
+      },
+      {
+        "player_name": "RG Sharma",
+        "runs": 178.0,
+        "balls": 135,
+        "strike_rate": 131.9
+      },
+      {
+        "player_name": "S Dhawan",
+        "runs": 138.0,
+        "balls": 121,
+        "strike_rate": 114.0
+      },
+      {
+        "player_name": "KK Nair",
+        "runs": 137.0,
+        "balls": 110,
+        "strike_rate": 124.5
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "JJ Bumrah",
+        "wickets": 8,
+        "economy": 7.65
+      },
+      {
+        "player_name": "A Nehra",
+        "wickets": 7,
+        "economy": 6.73
+      },
+      {
+        "player_name": "SR Watson",
+        "wickets": 6,
+        "economy": 8.25
+      },
+      {
+        "player_name": "Sandeep Sharma",
+        "wickets": 5,
+        "economy": 6.93
+      },
+      {
+        "player_name": "MM Sharma",
+        "wickets": 5,
+        "economy": 7.85
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 7.91,
+        "wickets_lost": 38
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 7.34,
+        "wickets_lost": 55
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 9.93,
+        "wickets_lost": 65
+      }
+    ],
+    "tactical_observations": [
+      "Rising Pune Supergiants exhibits an average win rate of 50.0% across historical IPL matches.",
+      "Powerplay scoring average is 7.91 RPO.",
+      "Death-overs scoring average is 9.93 RPO."
+    ]
+  },
+  "Royal Challengers Bengaluru": {
+    "opponent": "Royal Challengers Bengaluru",
+    "summary": {
+      "team_name": "Royal Challengers Bengaluru",
+      "matches": 286,
+      "wins": 143,
+      "losses": 137,
+      "win_pct": 50.0,
+      "total_runs_scored": 46332,
+      "total_runs_conceded": 46340,
+      "wickets_taken": 1695
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "MS Dhoni",
+        "runs": 906.0,
+        "balls": 628,
+        "strike_rate": 144.3
+      },
+      {
+        "player_name": "RG Sharma",
+        "runs": 889.0,
+        "balls": 637,
+        "strike_rate": 139.6
+      },
+      {
+        "player_name": "DA Warner",
+        "runs": 862.0,
+        "balls": 532,
+        "strike_rate": 162.0
+      },
+      {
+        "player_name": "KL Rahul",
+        "runs": 840.0,
+        "balls": 576,
+        "strike_rate": 145.8
+      },
+      {
+        "player_name": "AM Rahane",
+        "runs": 820.0,
+        "balls": 609,
+        "strike_rate": 134.6
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "JJ Bumrah",
+        "wickets": 34,
+        "economy": 7.44
+      },
+      {
+        "player_name": "Sandeep Sharma",
+        "wickets": 34,
+        "economy": 8.6
+      },
+      {
+        "player_name": "RA Jadeja",
+        "wickets": 29,
+        "economy": 7.48
+      },
+      {
+        "player_name": "SP Narine",
+        "wickets": 28,
+        "economy": 6.74
+      },
+      {
+        "player_name": "R Ashwin",
+        "wickets": 25,
+        "economy": 7.04
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 7.98,
+        "wickets_lost": 400
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 8.05,
+        "wickets_lost": 650
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 10.63,
+        "wickets_lost": 599
+      }
+    ],
+    "tactical_observations": [
+      "Royal Challengers Bengaluru exhibits an average win rate of 50.0% across historical IPL matches.",
+      "Powerplay scoring average is 7.98 RPO.",
+      "Death-overs scoring average is 10.63 RPO."
+    ]
+  },
+  "Rajasthan Royals": {
+    "opponent": "Rajasthan Royals",
+    "summary": {
+      "team_name": "Rajasthan Royals",
+      "matches": 251,
+      "wins": 123,
+      "losses": 122,
+      "win_pct": 49.0,
+      "total_runs_scored": 40437,
+      "total_runs_conceded": 40992,
+      "wickets_taken": 1450
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "V Kohli",
+        "runs": 928.0,
+        "balls": 739,
+        "strike_rate": 125.6
+      },
+      {
+        "player_name": "KL Rahul",
+        "runs": 889.0,
+        "balls": 652,
+        "strike_rate": 136.3
+      },
+      {
+        "player_name": "Shubman Gill",
+        "runs": 718.0,
+        "balls": 501,
+        "strike_rate": 143.3
+      },
+      {
+        "player_name": "S Dhawan",
+        "runs": 679.0,
+        "balls": 520,
+        "strike_rate": 130.6
+      },
+      {
+        "player_name": "AB de Villiers",
+        "runs": 652.0,
+        "balls": 440,
+        "strike_rate": 148.2
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "A Mishra",
+        "wickets": 34,
+        "economy": 7.0
+      },
+      {
+        "player_name": "Rashid Khan",
+        "wickets": 25,
+        "economy": 7.04
+      },
+      {
+        "player_name": "HV Patel",
+        "wickets": 24,
+        "economy": 7.79
+      },
+      {
+        "player_name": "PP Chawla",
+        "wickets": 24,
+        "economy": 7.64
+      },
+      {
+        "player_name": "Mohammed Shami",
+        "wickets": 24,
+        "economy": 8.7
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.18,
+        "wickets_lost": 339
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 8.02,
+        "wickets_lost": 624
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 9.75,
+        "wickets_lost": 542
+      }
+    ],
+    "tactical_observations": [
+      "Rajasthan Royals exhibits an average win rate of 49.0% across historical IPL matches.",
+      "Powerplay scoring average is 8.18 RPO.",
+      "Death-overs scoring average is 9.75 RPO."
+    ]
+  },
+  "Lucknow Super Giants": {
+    "opponent": "Lucknow Super Giants",
+    "summary": {
+      "team_name": "Lucknow Super Giants",
+      "matches": 72,
+      "wins": 34,
+      "losses": 36,
+      "win_pct": 47.22,
+      "total_runs_scored": 12754,
+      "total_runs_conceded": 12814,
+      "wickets_taken": 415
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "Shubman Gill",
+        "runs": 327.0,
+        "balls": 224,
+        "strike_rate": 146.0
+      },
+      {
+        "player_name": "SS Iyer",
+        "runs": 320.0,
+        "balls": 203,
+        "strike_rate": 157.6
+      },
+      {
+        "player_name": "YBK Jaiswal",
+        "runs": 272.0,
+        "balls": 180,
+        "strike_rate": 151.1
+      },
+      {
+        "player_name": "F du Plessis",
+        "runs": 267.0,
+        "balls": 182,
+        "strike_rate": 146.7
+      },
+      {
+        "player_name": "P Simran Singh",
+        "runs": 261.0,
+        "balls": 146,
+        "strike_rate": 178.8
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "Kuldeep Yadav",
+        "wickets": 12,
+        "economy": 7.57
+      },
+      {
+        "player_name": "Arshdeep Singh",
+        "wickets": 12,
+        "economy": 9.69
+      },
+      {
+        "player_name": "TA Boult",
+        "wickets": 12,
+        "economy": 6.96
+      },
+      {
+        "player_name": "JR Hazlewood",
+        "wickets": 11,
+        "economy": 8.0
+      },
+      {
+        "player_name": "YS Chahal",
+        "wickets": 11,
+        "economy": 9.63
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.62,
+        "wickets_lost": 106
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 8.62,
+        "wickets_lost": 182
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 10.54,
+        "wickets_lost": 165
+      }
+    ],
+    "tactical_observations": [
+      "Lucknow Super Giants exhibits an average win rate of 47.22% across historical IPL matches.",
+      "Powerplay scoring average is 8.62 RPO.",
+      "Death-overs scoring average is 10.54 RPO."
+    ]
+  },
+  "Sunrisers Hyderabad": {
+    "opponent": "Sunrisers Hyderabad",
+    "summary": {
+      "team_name": "Sunrisers Hyderabad",
+      "matches": 286,
+      "wins": 131,
+      "losses": 150,
+      "win_pct": 45.8,
+      "total_runs_scored": 46103,
+      "total_runs_conceded": 46223,
+      "wickets_taken": 1703
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "V Kohli",
+        "runs": 1200.0,
+        "balls": 839,
+        "strike_rate": 143.0
+      },
+      {
+        "player_name": "SV Samson",
+        "runs": 901.0,
+        "balls": 636,
+        "strike_rate": 141.7
+      },
+      {
+        "player_name": "MS Dhoni",
+        "runs": 781.0,
+        "balls": 594,
+        "strike_rate": 131.5
+      },
+      {
+        "player_name": "SK Raina",
+        "runs": 763.0,
+        "balls": 547,
+        "strike_rate": 139.5
+      },
+      {
+        "player_name": "RG Sharma",
+        "runs": 710.0,
+        "balls": 528,
+        "strike_rate": 134.5
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "SL Malinga",
+        "wickets": 33,
+        "economy": 6.14
+      },
+      {
+        "player_name": "DJ Bravo",
+        "wickets": 32,
+        "economy": 7.94
+      },
+      {
+        "player_name": "YS Chahal",
+        "wickets": 31,
+        "economy": 8.1
+      },
+      {
+        "player_name": "AD Russell",
+        "wickets": 27,
+        "economy": 9.68
+      },
+      {
+        "player_name": "PP Chawla",
+        "wickets": 26,
+        "economy": 8.12
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.25,
+        "wickets_lost": 392
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 7.85,
+        "wickets_lost": 631
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 9.58,
+        "wickets_lost": 703
+      }
+    ],
+    "tactical_observations": [
+      "Sunrisers Hyderabad exhibits an average win rate of 45.8% across historical IPL matches.",
+      "Powerplay scoring average is 8.25 RPO.",
+      "Death-overs scoring average is 9.58 RPO."
+    ]
+  },
+  "Punjab Kings": {
+    "opponent": "Punjab Kings",
+    "summary": {
+      "team_name": "Punjab Kings",
+      "matches": 278,
+      "wins": 126,
+      "losses": 145,
+      "win_pct": 45.32,
+      "total_runs_scored": 45573,
+      "total_runs_conceded": 45650,
+      "wickets_taken": 1575
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "V Kohli",
+        "runs": 1217.0,
+        "balls": 905,
+        "strike_rate": 134.5
+      },
+      {
+        "player_name": "DA Warner",
+        "runs": 1134.0,
+        "balls": 783,
+        "strike_rate": 144.8
+      },
+      {
+        "player_name": "RG Sharma",
+        "runs": 907.0,
+        "balls": 659,
+        "strike_rate": 137.6
+      },
+      {
+        "player_name": "S Dhawan",
+        "runs": 894.0,
+        "balls": 642,
+        "strike_rate": 139.3
+      },
+      {
+        "player_name": "F du Plessis",
+        "runs": 831.0,
+        "balls": 572,
+        "strike_rate": 145.3
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "SP Narine",
+        "wickets": 39,
+        "economy": 7.02
+      },
+      {
+        "player_name": "UT Yadav",
+        "wickets": 37,
+        "economy": 7.63
+      },
+      {
+        "player_name": "B Kumar",
+        "wickets": 37,
+        "economy": 7.54
+      },
+      {
+        "player_name": "YS Chahal",
+        "wickets": 35,
+        "economy": 8.18
+      },
+      {
+        "player_name": "DJ Bravo",
+        "wickets": 31,
+        "economy": 8.21
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.24,
+        "wickets_lost": 424
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 8.13,
+        "wickets_lost": 672
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 9.96,
+        "wickets_lost": 610
+      }
+    ],
+    "tactical_observations": [
+      "Punjab Kings exhibits an average win rate of 45.32% across historical IPL matches.",
+      "Powerplay scoring average is 8.24 RPO.",
+      "Death-overs scoring average is 9.96 RPO."
+    ]
+  },
+  "Delhi Capitals": {
+    "opponent": "Delhi Capitals",
+    "summary": {
+      "team_name": "Delhi Capitals",
+      "matches": 281,
+      "wins": 125,
+      "losses": 147,
+      "win_pct": 44.48,
+      "total_runs_scored": 44255,
+      "total_runs_conceded": 45248,
+      "wickets_taken": 1646
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "V Kohli",
+        "runs": 1172.0,
+        "balls": 870,
+        "strike_rate": 134.7
+      },
+      {
+        "player_name": "RG Sharma",
+        "runs": 1092.0,
+        "balls": 821,
+        "strike_rate": 133.0
+      },
+      {
+        "player_name": "AM Rahane",
+        "runs": 960.0,
+        "balls": 713,
+        "strike_rate": 134.6
+      },
+      {
+        "player_name": "RV Uthappa",
+        "runs": 742.0,
+        "balls": 592,
+        "strike_rate": 125.3
+      },
+      {
+        "player_name": "MS Dhoni",
+        "runs": 739.0,
+        "balls": 527,
+        "strike_rate": 140.2
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "JJ Bumrah",
+        "wickets": 36,
+        "economy": 7.42
+      },
+      {
+        "player_name": "SP Narine",
+        "wickets": 36,
+        "economy": 6.82
+      },
+      {
+        "player_name": "B Kumar",
+        "wickets": 33,
+        "economy": 7.38
+      },
+      {
+        "player_name": "R Ashwin",
+        "wickets": 32,
+        "economy": 6.45
+      },
+      {
+        "player_name": "PP Chawla",
+        "wickets": 28,
+        "economy": 8.12
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.05,
+        "wickets_lost": 473
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 7.78,
+        "wickets_lost": 649
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 9.84,
+        "wickets_lost": 575
+      }
+    ],
+    "tactical_observations": [
+      "Delhi Capitals exhibits an average win rate of 44.48% across historical IPL matches.",
+      "Powerplay scoring average is 8.05 RPO.",
+      "Death-overs scoring average is 9.84 RPO."
+    ]
+  },
+  "Gujarat Lions": {
+    "opponent": "Gujarat Lions",
+    "summary": {
+      "team_name": "Gujarat Lions",
+      "matches": 30,
+      "wins": 13,
+      "losses": 16,
+      "win_pct": 43.33,
+      "total_runs_scored": 4862,
+      "total_runs_conceded": 5090,
+      "wickets_taken": 151
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "DA Warner",
+        "runs": 336.0,
+        "balls": 220,
+        "strike_rate": 152.7
+      },
+      {
+        "player_name": "V Kohli",
+        "runs": 283.0,
+        "balls": 183,
+        "strike_rate": 154.6
+      },
+      {
+        "player_name": "AB de Villiers",
+        "runs": 233.0,
+        "balls": 125,
+        "strike_rate": 186.4
+      },
+      {
+        "player_name": "RR Pant",
+        "runs": 190.0,
+        "balls": 102,
+        "strike_rate": 186.3
+      },
+      {
+        "player_name": "HM Amla",
+        "runs": 169.0,
+        "balls": 100,
+        "strike_rate": 169.0
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "B Kumar",
+        "wickets": 12,
+        "economy": 6.72
+      },
+      {
+        "player_name": "YS Chahal",
+        "wickets": 8,
+        "economy": 8.11
+      },
+      {
+        "player_name": "Imran Tahir",
+        "wickets": 8,
+        "economy": 8.67
+      },
+      {
+        "player_name": "CJ Jordan",
+        "wickets": 7,
+        "economy": 5.29
+      },
+      {
+        "player_name": "MJ McClenaghan",
+        "wickets": 6,
+        "economy": 8.4
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.61,
+        "wickets_lost": 44
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 8.02,
+        "wickets_lost": 80
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 9.28,
+        "wickets_lost": 64
+      }
+    ],
+    "tactical_observations": [
+      "Gujarat Lions exhibits an average win rate of 43.33% across historical IPL matches.",
+      "Powerplay scoring average is 8.61 RPO.",
+      "Death-overs scoring average is 9.28 RPO."
+    ]
+  },
+  "Kochi Tuskers Kerala": {
+    "opponent": "Kochi Tuskers Kerala",
+    "summary": {
+      "team_name": "Kochi Tuskers Kerala",
+      "matches": 14,
+      "wins": 6,
+      "losses": 8,
+      "win_pct": 42.86,
+      "total_runs_scored": 1901,
+      "total_runs_conceded": 1986,
+      "wickets_taken": 74
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "SR Tendulkar",
+        "runs": 100.0,
+        "balls": 66,
+        "strike_rate": 151.5
+      },
+      {
+        "player_name": "V Sehwag",
+        "runs": 95.0,
+        "balls": 56,
+        "strike_rate": 169.6
+      },
+      {
+        "player_name": "EJG Morgan",
+        "runs": 76.0,
+        "balls": 63,
+        "strike_rate": 120.6
+      },
+      {
+        "player_name": "KD Karthik",
+        "runs": 69.0,
+        "balls": 33,
+        "strike_rate": 209.1
+      },
+      {
+        "player_name": "SK Raina",
+        "runs": 69.0,
+        "balls": 53,
+        "strike_rate": 130.2
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "RE van der Merwe",
+        "wickets": 5,
+        "economy": 5.12
+      },
+      {
+        "player_name": "M Morkel",
+        "wickets": 4,
+        "economy": 6.71
+      },
+      {
+        "player_name": "YK Pathan",
+        "wickets": 4,
+        "economy": 5.14
+      },
+      {
+        "player_name": "DL Vettori",
+        "wickets": 3,
+        "economy": 5.13
+      },
+      {
+        "player_name": "DE Bollinger",
+        "wickets": 3,
+        "economy": 8.0
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 8.1,
+        "wickets_lost": 23
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 7.02,
+        "wickets_lost": 27
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 7.91,
+        "wickets_lost": 36
+      }
+    ],
+    "tactical_observations": [
+      "Kochi Tuskers Kerala exhibits an average win rate of 42.86% across historical IPL matches.",
+      "Powerplay scoring average is 8.1 RPO.",
+      "Death-overs scoring average is 7.91 RPO."
+    ]
+  },
+  "Pune Warriors": {
+    "opponent": "Pune Warriors",
+    "summary": {
+      "team_name": "Pune Warriors",
+      "matches": 46,
+      "wins": 12,
+      "losses": 33,
+      "win_pct": 26.09,
+      "total_runs_scored": 6358,
+      "total_runs_conceded": 6857,
+      "wickets_taken": 238
+    },
+    "top_opposing_batters": [
+      {
+        "player_name": "CH Gayle",
+        "runs": 383.0,
+        "balls": 190,
+        "strike_rate": 201.6
+      },
+      {
+        "player_name": "V Sehwag",
+        "runs": 220.0,
+        "balls": 139,
+        "strike_rate": 158.3
+      },
+      {
+        "player_name": "S Badrinath",
+        "runs": 199.0,
+        "balls": 156,
+        "strike_rate": 127.6
+      },
+      {
+        "player_name": "G Gambhir",
+        "runs": 182.0,
+        "balls": 155,
+        "strike_rate": 117.4
+      },
+      {
+        "player_name": "AM Rahane",
+        "runs": 173.0,
+        "balls": 134,
+        "strike_rate": 129.1
+      }
+    ],
+    "top_opposing_bowlers": [
+      {
+        "player_name": "SL Malinga",
+        "wickets": 12,
+        "economy": 5.96
+      },
+      {
+        "player_name": "R Vinay Kumar",
+        "wickets": 11,
+        "economy": 7.16
+      },
+      {
+        "player_name": "A Mishra",
+        "wickets": 10,
+        "economy": 6.33
+      },
+      {
+        "player_name": "PP Ojha",
+        "wickets": 8,
+        "economy": 7.15
+      },
+      {
+        "player_name": "MM Patel",
+        "wickets": 8,
+        "economy": 6.14
+      }
+    ],
+    "phase_patterns": [
+      {
+        "match_phase": "Powerplay",
+        "bat_run_rate": 7.02,
+        "wickets_lost": 76
+      },
+      {
+        "match_phase": "Middle Overs",
+        "bat_run_rate": 6.77,
+        "wickets_lost": 107
+      },
+      {
+        "match_phase": "Death Overs",
+        "bat_run_rate": 8.41,
+        "wickets_lost": 115
+      }
+    ],
+    "tactical_observations": [
+      "Pune Warriors exhibits an average win rate of 26.09% across historical IPL matches.",
+      "Powerplay scoring average is 7.02 RPO.",
+      "Death-overs scoring average is 8.41 RPO."
+    ]
+  }
+}

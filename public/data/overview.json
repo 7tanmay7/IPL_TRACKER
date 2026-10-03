@@ -1,0 +1,199 @@
+{
+  "kpis": {
+    "total_matches": 1243,
+    "total_runs": 401738.0,
+    "total_wickets": 14705.0,
+    "total_batters": 738,
+    "total_bowlers": 577,
+    "total_seasons": 18
+  },
+  "season_trends": [
+    {
+      "season": "2007",
+      "matches": 58,
+      "total_runs": 17937.0,
+      "avg_match_runs": 309.3
+    },
+    {
+      "season": "2009",
+      "matches": 117,
+      "total_runs": 35236.0,
+      "avg_match_runs": 301.2
+    },
+    {
+      "season": "2011",
+      "matches": 73,
+      "total_runs": 21154.0,
+      "avg_match_runs": 289.8
+    },
+    {
+      "season": "2012",
+      "matches": 74,
+      "total_runs": 22453.0,
+      "avg_match_runs": 303.4
+    },
+    {
+      "season": "2013",
+      "matches": 76,
+      "total_runs": 22602.0,
+      "avg_match_runs": 297.4
+    },
+    {
+      "season": "2014",
+      "matches": 60,
+      "total_runs": 18931.0,
+      "avg_match_runs": 315.5
+    },
+    {
+      "season": "2015",
+      "matches": 59,
+      "total_runs": 18353.0,
+      "avg_match_runs": 311.1
+    },
+    {
+      "season": "2016",
+      "matches": 60,
+      "total_runs": 18862.0,
+      "avg_match_runs": 314.4
+    },
+    {
+      "season": "2017",
+      "matches": 59,
+      "total_runs": 18786.0,
+      "avg_match_runs": 318.4
+    },
+    {
+      "season": "2018",
+      "matches": 60,
+      "total_runs": 19901.0,
+      "avg_match_runs": 331.7
+    },
+    {
+      "season": "2019",
+      "matches": 60,
+      "total_runs": 19434.0,
+      "avg_match_runs": 323.9
+    },
+    {
+      "season": "2020",
+      "matches": 60,
+      "total_runs": 19416.0,
+      "avg_match_runs": 323.6
+    },
+    {
+      "season": "2021",
+      "matches": 60,
+      "total_runs": 18637.0,
+      "avg_match_runs": 310.6
+    },
+    {
+      "season": "2022",
+      "matches": 74,
+      "total_runs": 24395.0,
+      "avg_match_runs": 329.7
+    },
+    {
+      "season": "2023",
+      "matches": 74,
+      "total_runs": 25688.0,
+      "avg_match_runs": 347.1
+    },
+    {
+      "season": "2024",
+      "matches": 71,
+      "total_runs": 25971.0,
+      "avg_match_runs": 365.8
+    },
+    {
+      "season": "2025",
+      "matches": 74,
+      "total_runs": 26527.0,
+      "avg_match_runs": 358.5
+    },
+    {
+      "season": "2026",
+      "matches": 74,
+      "total_runs": 27455.0,
+      "avg_match_runs": 371.0
+    }
+  ],
+  "phase_breakdown": [
+    {
+      "match_phase": "Powerplay",
+      "runs": 120503.0,
+      "balls": 89318,
+      "run_rate": 8.09,
+      "wickets": 3614
+    },
+    {
+      "match_phase": "Middle Overs",
+      "runs": 174283.0,
+      "balls": 131526,
+      "run_rate": 7.95,
+      "wickets": 5708
+    },
+    {
+      "match_phase": "Death Overs",
+      "runs": 106952.0,
+      "balls": 63786,
+      "run_rate": 10.06,
+      "wickets": 5383
+    }
+  ],
+  "top_performers": {
+    "batters": [
+      {
+        "player_name": "V Kohli",
+        "runs": 9346.0,
+        "strike_rate": 135.2
+      },
+      {
+        "player_name": "RG Sharma",
+        "runs": 7331.0,
+        "strike_rate": 133.4
+      },
+      {
+        "player_name": "S Dhawan",
+        "runs": 6769.0,
+        "strike_rate": 127.6
+      },
+      {
+        "player_name": "DA Warner",
+        "runs": 6567.0,
+        "strike_rate": 140.3
+      },
+      {
+        "player_name": "KL Rahul",
+        "runs": 5828.0,
+        "strike_rate": 139.6
+      }
+    ],
+    "bowlers": [
+      {
+        "player_name": "B Kumar",
+        "wickets": 243,
+        "economy": 7.71
+      },
+      {
+        "player_name": "YS Chahal",
+        "wickets": 242,
+        "economy": 8.05
+      },
+      {
+        "player_name": "SP Narine",
+        "wickets": 229,
+        "economy": 6.79
+      },
+      {
+        "player_name": "JJ Bumrah",
+        "wickets": 208,
+        "economy": 7.34
+      },
+      {
+        "player_name": "DJ Bravo",
+        "wickets": 207,
+        "economy": 8.38
+      }
+    ]
+  }
+}
