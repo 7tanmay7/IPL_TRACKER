@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "private": true,
   "description": "IPL Cricket Intelligence & Scouting Analytics Platform",
+  "workspaces": [
+    "frontend"
+  ],
   "scripts": {
     "build": "npm run build --prefix frontend",
     "dev": "npm run dev --prefix frontend",
